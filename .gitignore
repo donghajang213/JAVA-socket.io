@@ -1,0 +1,22 @@
+# Java/Gradle 관련
+.gradle/
+build/
+out/
+*.class
+
+# IDE 관련
+.idea/
+*.iml
+*.log
+
+# node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# build output
+build/
+dist/
+
+# env files
+.env
